@@ -1,4 +1,4 @@
-function add(input1: number, input2: number) {
+function addNumbers(input1: number, input2: number) {
     return input1 + input2;
 }
 
@@ -15,6 +15,6 @@ addAndHandle(12, 12, printResult);
 
 let pointer: (a: number, b: number) => number;
 
-pointer = add;
+pointer = addNumbers;
 
 console.log(pointer(2,3));
