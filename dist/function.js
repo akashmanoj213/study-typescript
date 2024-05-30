@@ -2,6 +2,7 @@
 function addNumbers(input1, input2) {
     return input1 + input2;
 }
+//print resutl
 function printResult(res) {
     console.log("Result is : ", res);
 }
@@ -13,3 +14,4 @@ addAndHandle(12, 12, printResult);
 let pointer;
 pointer = addNumbers;
 console.log(pointer(2, 3));
+//# sourceMappingURL=function.js.map

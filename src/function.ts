@@ -2,6 +2,7 @@ function addNumbers(input1: number, input2: number) {
     return input1 + input2;
 }
 
+//print resutl
 function printResult(res: number) {
     console.log("Result is : ", res);
 }

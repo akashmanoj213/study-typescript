@@ -28,4 +28,5 @@ for (const hobby of person.hobbies) {
 }
 
 console.log(person.name);
+
 console.log(PERMISSIONS[1]); // This works because of the way TS is convereted to JS

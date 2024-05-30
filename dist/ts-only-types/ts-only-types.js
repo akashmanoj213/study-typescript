@@ -13,3 +13,4 @@ function gernerateError(message, code) {
 }
 const result = gernerateError("This is error", 404);
 console.log(result); // will never be printed, hence the method 'never' returns
+//# sourceMappingURL=ts-only-types.js.map

@@ -5,6 +5,7 @@ userInput = "Akash";
 userInput = 132;
 
 let storedName: string;
+
 if (typeof userInput === "string") {
 storedName = userInput;
 console.log(storedName.toUpperCase());

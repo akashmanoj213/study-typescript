@@ -15,3 +15,4 @@ let comResult = combine("23", "20", "as-num");
 console.log(comResult);
 let stringResult = combine('Akash', 'Manoj', "as-str");
 console.log(stringResult);
+//# sourceMappingURL=union-aliases.js.map
